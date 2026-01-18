@@ -18,7 +18,6 @@ Analysis of Tesla and GameStop stock performance with interactive dashboards.
 
 ## 🛠 Installation
 ```bash
-git clone https://github.com/yourusername/financial-analysis.git
 cd financial-analysis
 pip install -r requirements.txt
 jupyter notebook Revenue_Data_and_Building_Dashboard.ipynb
